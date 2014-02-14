@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PayOnlineHandler()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PayOnlineHandler\r\n
+comment1.params=
+comment1.target=void\ makePayment()
+comment2.params=p
+comment2.target=void\ setNext(PaymentHandler)
+numComments=3

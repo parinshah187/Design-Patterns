@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vegetables()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=i
+comment2.target=void\ touch(int)
+comment3.params=item
+comment3.target=void\ notifyObservers(Item)
+comment4.params=j
+comment4.target=void\ type(int)
+comment5.params=
+comment5.target=void\ checkOut()
+comment6.params=
+comment6.target=void\ backspace()
+numComments=7

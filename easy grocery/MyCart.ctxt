@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyCart()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=i
+comment2.target=void\ touch(int)
+comment3.params=j
+comment3.target=void\ type(int)
+comment4.params=
+comment4.target=void\ checkOut()
+comment5.params=
+comment5.target=java.util.List\ getItems()
+comment6.params=item
+comment6.target=void\ update(Item)
+comment7.params=
+comment7.target=void\ backspace()
+comment8.params=
+comment8.target=java.util.ArrayList\ finalItems()
+numComments=9
